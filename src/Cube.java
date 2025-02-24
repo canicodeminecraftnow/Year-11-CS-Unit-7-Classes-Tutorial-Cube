@@ -41,3 +41,4 @@ public class Cube {
         return "Cube{side=" + side + "}";
     }
 }
+
